@@ -72,7 +72,7 @@ def parseLines(lines):
             continue
         if float(splitted[3]) < 0:
             continue  
-        yield (int(splitted[0]),float(splitted[3]),50)
+        yield (int(splitted[0]),float(splitted[3]),float(splitted[12]))
 
 
 

@@ -16,7 +16,7 @@ lastParsedData=None
 timePassedTotal=0
 
 DATASET_PATH = "dataset"
-DATASET_SUBS = ["A","B","C","D"]
+DATASET_SUBS = ["fahrsimcity","paris","codeAlt","codeNeu"]
 DATASET_SEPARATOR=':'
 
 
